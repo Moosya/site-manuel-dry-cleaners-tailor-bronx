@@ -1,0 +1,27 @@
+{
+  "shopName": "Manuel Dry Cleaners & Tailor",
+  "tagline": "Dry cleaning and tailoring near Jerome Avenue",
+  "phone": "(929) 453-6167",
+  "address": "2287 Jerome Ave, Bronx, NY 10468",
+  "hours": "Call or visit for hours",
+  "photoUrl": "hero.jpg",
+  "services": [
+    {
+      "name": "Dry cleaning",
+      "description": "Professional dry cleaning for suits, dresses, and everyday garments."
+    },
+    {
+      "name": "Laundry & press",
+      "description": "Wash, dry, and press service when you need clothes back ready to wear."
+    },
+    {
+      "name": "Neighborhood location",
+      "description": "Call or stop by — hours and turnaround by phone."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "manuel-dry-cleaners-tailor-bronx",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
