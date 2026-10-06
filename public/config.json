@@ -4,7 +4,7 @@
   "phone": "(929) 453-6167",
   "address": "2287 Jerome Ave, Bronx, NY 10468",
   "hours": "Call or visit for hours",
-  "photoUrl": "/hero.jpg",
+  "photoUrl": "hero.jpg",
   "services": [
     {
       "name": "Dry cleaning",
